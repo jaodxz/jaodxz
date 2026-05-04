@@ -76,7 +76,7 @@
 ###
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jaodxz/jaodxz/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/jaodxz/jaodxz/output/snake.svg?v=20260504" alt="Snake animation" />
 </p>
 
 ###
